@@ -1,22 +1,31 @@
-# shreyasnikte.github.io
+# Flexible-Jekyll is a simple and clean theme for Jekyll
 
-Template Credits:
-JohnDoe Free Bootstrap landing page for personal and commercial use. Designed with ♥️ and creativity by Devcrud.com 
+![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
 
-Product Page: https://wwww.devcrud.com/
+## Demo
 
-Credits:
+Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
 
-    Demo Images:
-        Unsplash:       	(https://www.unsplash.com)
+The main page would look like this:
 
-    Icons:
-		Themify Icons: 		(https://themify.me/themify-icons)
+![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
 
-	Other:
-		JQuery: 			(https://www.jquery.com)
-		Bootstrap: 			(https://www.getbootstrap.com)
-		Bootstrap Affix: 	(http://getbootstrap.com/javascript/#affix)  
-		Isotope: 			(https://isotope.metafizzy.co/) 
-		Google Maps:		(https://maps.google.com)
+The post page would look like this:
 
+![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
+
+## Features
+
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Disqus](https://disqus.com/)
+- [Analytics](https://analytics.google.com/analytics/web/)
+- Support Emoji
+
+## Installation:
+
+Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
+
+## License
+
+GNU General Public License v3.0
