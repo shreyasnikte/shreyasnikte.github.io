@@ -1,4 +1,4 @@
 # gitignore for the personal website
 
 # Ignore the drafts folder
-assets/drafts/*
+_posts/drafts/*
