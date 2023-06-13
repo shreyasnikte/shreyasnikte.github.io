@@ -1,2 +1,2 @@
 # Projects blog & personal website
-Template Credits: [artemsheludko](https://github.com/artemsheludko/flexible-jekyll)
+A simple overview of my public online presence. Feel free to contact me using following platforms
